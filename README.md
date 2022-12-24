@@ -1,3 +1,3 @@
-# PythonPY100-exam
+# PythonPY110-exam
 
 Смолин Роман Владимирович
