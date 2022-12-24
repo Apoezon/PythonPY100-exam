@@ -1,0 +1,1606 @@
+[
+    {
+        "model": "shop_final.book",
+        "pk": 2,
+        "fields": {
+            "title": "Pascal не понятно, для кого",
+            "year": 1968,
+            "pages": 473,
+            "isbn13": "978-1-04-059429-2",
+            "rating": 2,
+            "price": 9021.4,
+            "author": [
+                "Эдуард Ковалев",
+                "Екатерина Субботина"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 3,
+        "fields": {
+            "title": "Pascal не понятно, для кого",
+            "year": 1979,
+            "pages": 941,
+            "isbn13": "978-1-56920-092-6",
+            "rating": 1,
+            "price": 6779.5,
+            "author": [
+                "Юлия Осипова",
+                "Егор Гурьев",
+                "Варвара Никифорова"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 4,
+        "fields": {
+            "title": "С для динозавров\n",
+            "year": 1904,
+            "pages": 933,
+            "isbn13": "978-1-81351-903-3",
+            "rating": 0,
+            "price": 9512.1,
+            "author": [
+                "Евгения Князева",
+                "Антонина Евсеева"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 5,
+        "fields": {
+            "title": "Java для скучающих\n",
+            "year": 1921,
+            "pages": 801,
+            "isbn13": "978-0-04-280428-6",
+            "rating": 3,
+            "price": 1770.8,
+            "author": [
+                "Архип Громов"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 6,
+        "fields": {
+            "title": "Pascal не понятно, для кого",
+            "year": 1920,
+            "pages": 736,
+            "isbn13": "978-1-5101-6746-9",
+            "rating": 4,
+            "price": 4147.4,
+            "author": [
+                "Иван Белозеров",
+                "Елена Горбачева"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 7,
+        "fields": {
+            "title": "Java для скучающих\n",
+            "year": 1986,
+            "pages": 113,
+            "isbn13": "978-0-445-50525-4",
+            "rating": 2,
+            "price": 1321.4,
+            "author": [
+                "Наина Кондратьева",
+                "Алевтина Комиссарова",
+                "Ратибор Одинцов"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 8,
+        "fields": {
+            "title": "Java для скучающих\n",
+            "year": 1922,
+            "pages": 518,
+            "isbn13": "978-0-388-61421-1",
+            "rating": 5,
+            "price": 2874.4,
+            "author": [
+                "Тихон Дорофеев"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 9,
+        "fields": {
+            "title": "Pascal не понятно, для кого",
+            "year": 1927,
+            "pages": 981,
+            "isbn13": "978-0-348-72046-4",
+            "rating": 3,
+            "price": 5659.6,
+            "author": [
+                "Фока Гордеев",
+                "Филипп Федотов"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 10,
+        "fields": {
+            "title": "Python для начинающих\n",
+            "year": 2020,
+            "pages": 944,
+            "isbn13": "978-0-553-57410-4",
+            "rating": 5,
+            "price": 1177.6,
+            "author": [
+                "Авдей Кузнецов"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 11,
+        "fields": {
+            "title": "SQL для недогоняющих\n",
+            "year": 1974,
+            "pages": 867,
+            "isbn13": "978-0-219-99025-5",
+            "rating": 1,
+            "price": 398.4,
+            "author": [
+                "Измаил Виноградов"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 12,
+        "fields": {
+            "title": "С для динозавров\n",
+            "year": 1964,
+            "pages": 660,
+            "isbn13": "978-0-570-28061-3",
+            "rating": 2,
+            "price": 5006.9,
+            "author": [
+                "Светлана Горбунова"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 13,
+        "fields": {
+            "title": "С для динозавров\n",
+            "year": 1937,
+            "pages": 400,
+            "isbn13": "978-0-14-099962-4",
+            "rating": 0,
+            "price": 118.0,
+            "author": [
+                "Владлен Брагин"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 14,
+        "fields": {
+            "title": "Python для начинающих\n",
+            "year": 1949,
+            "pages": 675,
+            "isbn13": "978-1-914288-12-8",
+            "rating": 5,
+            "price": 2296.0,
+            "author": [
+                "Вероника Лихачева",
+                "Фортунат Соловьев"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 15,
+        "fields": {
+            "title": "Pascal не понятно, для кого",
+            "year": 1902,
+            "pages": 10,
+            "isbn13": "978-0-7354-5025-7",
+            "rating": 2,
+            "price": 7141.6,
+            "author": [
+                "Василиса Орлова"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 16,
+        "fields": {
+            "title": "SQL для недогоняющих\n",
+            "year": 1916,
+            "pages": 808,
+            "isbn13": "978-0-7108-3812-4",
+            "rating": 3,
+            "price": 9516.3,
+            "author": [
+                "Вероника Михеева",
+                "Мария Петухова",
+                "Жанна Мартынова"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 17,
+        "fields": {
+            "title": "SQL для недогоняющих\n",
+            "year": 1999,
+            "pages": 228,
+            "isbn13": "978-0-9805340-1-6",
+            "rating": 1,
+            "price": 1734.1,
+            "author": [
+                "Модест Комиссаров",
+                "Орест Григорьев",
+                "Борислав Григорьев"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 18,
+        "fields": {
+            "title": "SQL для недогоняющих\n",
+            "year": 1917,
+            "pages": 772,
+            "isbn13": "978-1-4666-6365-7",
+            "rating": 0,
+            "price": 6788.1,
+            "author": [
+                "Павел Орлов",
+                "Оксана Ермакова"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 19,
+        "fields": {
+            "title": "Java для скучающих\n",
+            "year": 1941,
+            "pages": 361,
+            "isbn13": "978-0-08-040262-8",
+            "rating": 5,
+            "price": 4958.3,
+            "author": [
+                "Василиса Русакова"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 20,
+        "fields": {
+            "title": "Java для скучающих\n",
+            "year": 1955,
+            "pages": 620,
+            "isbn13": "978-1-157-26423-1",
+            "rating": 2,
+            "price": 7629.2,
+            "author": [
+                "Ирина Исаева"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 21,
+        "fields": {
+            "title": "Pascal не понятно, для кого",
+            "year": 1990,
+            "pages": 178,
+            "isbn13": "978-0-501-05472-6",
+            "rating": 5,
+            "price": 7570.3,
+            "author": [
+                "Валентина Максимова",
+                "Александра Артемьева"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 22,
+        "fields": {
+            "title": "С для динозавров\n",
+            "year": 1999,
+            "pages": 771,
+            "isbn13": "978-1-373-22251-0",
+            "rating": 2,
+            "price": 8029.4,
+            "author": [
+                "Лазарь Крылов",
+                "Аверкий Борисов",
+                "Фаина Шарова"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 23,
+        "fields": {
+            "title": "С для динозавров\n",
+            "year": 1952,
+            "pages": 559,
+            "isbn13": "978-1-304-94390-3",
+            "rating": 0,
+            "price": 1986.0,
+            "author": [
+                "Артем Игнатов",
+                "Любим Воронцов",
+                "Радован Калашников"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 24,
+        "fields": {
+            "title": "Pascal не понятно, для кого",
+            "year": 1997,
+            "pages": 403,
+            "isbn13": "978-1-70279-450-3",
+            "rating": 4,
+            "price": 2124.2,
+            "author": [
+                "Алевтина Зыкова",
+                "Феликс Кондратьев"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 25,
+        "fields": {
+            "title": "Java для скучающих\n",
+            "year": 1963,
+            "pages": 794,
+            "isbn13": "978-0-504-42133-4",
+            "rating": 5,
+            "price": 1988.9,
+            "author": [
+                "Ираклий Кириллов"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 26,
+        "fields": {
+            "title": "Pascal не понятно, для кого",
+            "year": 1938,
+            "pages": 262,
+            "isbn13": "978-1-02-679761-7",
+            "rating": 3,
+            "price": 1546.1,
+            "author": [
+                "Лидия Одинцова"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 27,
+        "fields": {
+            "title": "С для динозавров\n",
+            "year": 1996,
+            "pages": 342,
+            "isbn13": "978-1-64007-036-3",
+            "rating": 2,
+            "price": 8458.2,
+            "author": [
+                "Фаина Васильева",
+                "Аполлон Фомин",
+                "Ратмир Блохин"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 28,
+        "fields": {
+            "title": "SQL для недогоняющих\n",
+            "year": 2002,
+            "pages": 878,
+            "isbn13": "978-1-884682-43-8",
+            "rating": 4,
+            "price": 473.4,
+            "author": [
+                "Ладимир Уваров",
+                "Акулина Давыдова",
+                "Нонна Егорова"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 29,
+        "fields": {
+            "title": "Pascal не понятно, для кого",
+            "year": 2011,
+            "pages": 396,
+            "isbn13": "978-0-9742259-5-1",
+            "rating": 2,
+            "price": 3678.8,
+            "author": [
+                "Вероника Пономарева"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 30,
+        "fields": {
+            "title": "С для динозавров\n",
+            "year": 1929,
+            "pages": 435,
+            "isbn13": "978-0-8478-4112-7",
+            "rating": 2,
+            "price": 8833.8,
+            "author": [
+                "Василиса Дроздова",
+                "Анатолий Соловьев"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 31,
+        "fields": {
+            "title": "Python для начинающих\n",
+            "year": 1951,
+            "pages": 884,
+            "isbn13": "978-1-75134-289-2",
+            "rating": 4,
+            "price": 6826.8,
+            "author": [
+                "Виктория Кудрявцева",
+                "Тарас Мясников"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 32,
+        "fields": {
+            "title": "SQL для недогоняющих\n",
+            "year": 2012,
+            "pages": 926,
+            "isbn13": "978-1-01-153200-1",
+            "rating": 4,
+            "price": 56.8,
+            "author": [
+                "Влас Кулагин",
+                "Евгения Журавлева",
+                "Дементий Дорофеев"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 33,
+        "fields": {
+            "title": "Java для скучающих\n",
+            "year": 1917,
+            "pages": 603,
+            "isbn13": "978-1-331-00004-4",
+            "rating": 5,
+            "price": 8473.6,
+            "author": [
+                "Твердислав Гурьев",
+                "Ангелина Савина"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 34,
+        "fields": {
+            "title": "SQL для недогоняющих\n",
+            "year": 2018,
+            "pages": 93,
+            "isbn13": "978-1-208-87395-5",
+            "rating": 3,
+            "price": 8700.6,
+            "author": [
+                "Агата Кулагина",
+                "Христофор Тимофеев",
+                "Алина Артемьева"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 35,
+        "fields": {
+            "title": "Python для начинающих\n",
+            "year": 2011,
+            "pages": 690,
+            "isbn13": "978-1-69324-864-1",
+            "rating": 2,
+            "price": 426.4,
+            "author": [
+                "Олимпиада Павлова",
+                "Демьян Шаров"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 36,
+        "fields": {
+            "title": "Python для начинающих\n",
+            "year": 1929,
+            "pages": 459,
+            "isbn13": "978-0-17-045595-4",
+            "rating": 4,
+            "price": 8182.6,
+            "author": [
+                "Галина Петухова",
+                "Олимпиада Исаева"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 37,
+        "fields": {
+            "title": "Python для начинающих\n",
+            "year": 1921,
+            "pages": 741,
+            "isbn13": "978-1-914584-61-9",
+            "rating": 2,
+            "price": 1398.6,
+            "author": [
+                "Лукия Жданова",
+                "Елена Антонова",
+                "Евфросиния Шилова"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 38,
+        "fields": {
+            "title": "Python для начинающих\n",
+            "year": 2014,
+            "pages": 972,
+            "isbn13": "978-1-182-65615-5",
+            "rating": 0,
+            "price": 3712.6,
+            "author": [
+                "Капитон Пестов",
+                "Остромир Жуков",
+                "Евстигней Панфилов"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 39,
+        "fields": {
+            "title": "С для динозавров\n",
+            "year": 1999,
+            "pages": 101,
+            "isbn13": "978-1-383-55390-1",
+            "rating": 3,
+            "price": 9461.9,
+            "author": [
+                "Олимпиада Лаврентьева",
+                "Евграф Петров",
+                "Стоян Бобров"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 40,
+        "fields": {
+            "title": "С для динозавров\n",
+            "year": 1968,
+            "pages": 493,
+            "isbn13": "978-1-928740-47-6",
+            "rating": 0,
+            "price": 3315.7,
+            "author": [
+                "Тарас Алексеев",
+                "Натан Беспалов"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 41,
+        "fields": {
+            "title": "SQL для недогоняющих\n",
+            "year": 2018,
+            "pages": 436,
+            "isbn13": "978-1-183-21196-4",
+            "rating": 4,
+            "price": 7629.7,
+            "author": [
+                "Изяслав Тихонов",
+                "Вероника Исаева"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 42,
+        "fields": {
+            "title": "SQL для недогоняющих\n",
+            "year": 1946,
+            "pages": 112,
+            "isbn13": "978-1-4240-9106-5",
+            "rating": 4,
+            "price": 7503.9,
+            "author": [
+                "Нина Бурова"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 43,
+        "fields": {
+            "title": "Pascal не понятно, для кого",
+            "year": 1988,
+            "pages": 291,
+            "isbn13": "978-0-07-885455-2",
+            "rating": 1,
+            "price": 1606.1,
+            "author": [
+                "Петр Федосеев"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 44,
+        "fields": {
+            "title": "Python для начинающих\n",
+            "year": 1985,
+            "pages": 105,
+            "isbn13": "978-1-00-650531-7",
+            "rating": 1,
+            "price": 411.9,
+            "author": [
+                "Аверкий Афанасьев"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 45,
+        "fields": {
+            "title": "Pascal не понятно, для кого",
+            "year": 1922,
+            "pages": 715,
+            "isbn13": "978-0-8215-3125-9",
+            "rating": 3,
+            "price": 75.7,
+            "author": [
+                "Милан Миронов",
+                "Вышеслав Ефимов"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 46,
+        "fields": {
+            "title": "Pascal не понятно, для кого",
+            "year": 1924,
+            "pages": 556,
+            "isbn13": "978-1-05-977906-2",
+            "rating": 2,
+            "price": 2700.5,
+            "author": [
+                "Антонина Зимина"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 47,
+        "fields": {
+            "title": "С для динозавров\n",
+            "year": 1952,
+            "pages": 212,
+            "isbn13": "978-1-83090-378-5",
+            "rating": 0,
+            "price": 7525.9,
+            "author": [
+                "Агафья Кабанова",
+                "Вероника Богданова",
+                "Кондратий Киселев"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 48,
+        "fields": {
+            "title": "Java для скучающих\n",
+            "year": 1946,
+            "pages": 697,
+            "isbn13": "978-1-03-874915-4",
+            "rating": 2,
+            "price": 4998.7,
+            "author": [
+                "Вячеслав Бобров"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 49,
+        "fields": {
+            "title": "Java для скучающих\n",
+            "year": 1994,
+            "pages": 693,
+            "isbn13": "978-1-161-93705-3",
+            "rating": 2,
+            "price": 9412.4,
+            "author": [
+                "Лучезар Якушев",
+                "Ефим Ильин"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 50,
+        "fields": {
+            "title": "Java для скучающих\n",
+            "year": 1916,
+            "pages": 594,
+            "isbn13": "978-1-968753-85-6",
+            "rating": 3,
+            "price": 7106.2,
+            "author": [
+                "Евдокия Макарова",
+                "Нонна Некрасова"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 51,
+        "fields": {
+            "title": "Java для скучающих\n",
+            "year": 1903,
+            "pages": 239,
+            "isbn13": "978-1-74953-958-7",
+            "rating": 0,
+            "price": 3930.9,
+            "author": [
+                "Сократ Ефимов",
+                "Аким Емельянов",
+                "Прасковья Хохлова"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 52,
+        "fields": {
+            "title": "С для динозавров\n",
+            "year": 1966,
+            "pages": 762,
+            "isbn13": "978-0-344-41969-0",
+            "rating": 4,
+            "price": 2873.5,
+            "author": [
+                "Ярополк Сысоев",
+                "Ангелина Кузнецова",
+                "Лидия Мухина"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 53,
+        "fields": {
+            "title": "Python для начинающих\n",
+            "year": 1959,
+            "pages": 780,
+            "isbn13": "978-0-359-76650-5",
+            "rating": 0,
+            "price": 7659.8,
+            "author": [
+                "Автоном Пономарев"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 54,
+        "fields": {
+            "title": "SQL для недогоняющих\n",
+            "year": 1935,
+            "pages": 552,
+            "isbn13": "978-0-06-941278-5",
+            "rating": 2,
+            "price": 6683.4,
+            "author": [
+                "Николай Романов",
+                "Ия Носова"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 55,
+        "fields": {
+            "title": "Python для начинающих\n",
+            "year": 1959,
+            "pages": 481,
+            "isbn13": "978-1-4242-4801-8",
+            "rating": 3,
+            "price": 1136.6,
+            "author": [
+                "Арсений Филатов"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 56,
+        "fields": {
+            "title": "SQL для недогоняющих\n",
+            "year": 1932,
+            "pages": 304,
+            "isbn13": "978-1-62192-997-0",
+            "rating": 5,
+            "price": 1956.3,
+            "author": [
+                "Михаил Мясников",
+                "Каллистрат Савин"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 57,
+        "fields": {
+            "title": "С для динозавров\n",
+            "year": 1944,
+            "pages": 181,
+            "isbn13": "978-0-597-55914-3",
+            "rating": 1,
+            "price": 4267.1,
+            "author": [
+                "Ия Сергеева",
+                "Аким Зиновьев",
+                "Евпраксия Селиверстова"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 58,
+        "fields": {
+            "title": "SQL для недогоняющих\n",
+            "year": 2008,
+            "pages": 513,
+            "isbn13": "978-0-8154-0503-0",
+            "rating": 0,
+            "price": 5099.6,
+            "author": [
+                "Филипп Савельев"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 59,
+        "fields": {
+            "title": "Java для скучающих\n",
+            "year": 1972,
+            "pages": 220,
+            "isbn13": "978-0-528-35098-6",
+            "rating": 0,
+            "price": 72.1,
+            "author": [
+                "Порфирий Власов"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 60,
+        "fields": {
+            "title": "С для динозавров\n",
+            "year": 2008,
+            "pages": 220,
+            "isbn13": "978-1-326-12866-1",
+            "rating": 4,
+            "price": 9356.6,
+            "author": [
+                "Лукия Кузнецова",
+                "Самуил Карпов",
+                "Виктор Терентьев"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 61,
+        "fields": {
+            "title": "Python для начинающих\n",
+            "year": 1968,
+            "pages": 717,
+            "isbn13": "978-0-89365-247-0",
+            "rating": 5,
+            "price": 7816.8,
+            "author": [
+                "Октябрина Большакова",
+                "Нифонт Ершов",
+                "Ия Жданова"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 62,
+        "fields": {
+            "title": "С для динозавров\n",
+            "year": 1952,
+            "pages": 820,
+            "isbn13": "978-0-14-846372-1",
+            "rating": 3,
+            "price": 9238.8,
+            "author": [
+                "Флорентин Козлов",
+                "Корнил Блинов"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 63,
+        "fields": {
+            "title": "Pascal не понятно, для кого",
+            "year": 1990,
+            "pages": 421,
+            "isbn13": "978-0-601-22906-2",
+            "rating": 5,
+            "price": 8942.8,
+            "author": [
+                "Афиноген Кириллов",
+                "София Белякова"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 64,
+        "fields": {
+            "title": "Python для начинающих\n",
+            "year": 2013,
+            "pages": 224,
+            "isbn13": "978-0-9747618-7-9",
+            "rating": 2,
+            "price": 4149.8,
+            "author": [
+                "Евпраксия Филатова",
+                "Ростислав Рожков",
+                "Ольга Агафонова"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 65,
+        "fields": {
+            "title": "Java для скучающих\n",
+            "year": 2010,
+            "pages": 518,
+            "isbn13": "978-0-7336-2428-5",
+            "rating": 1,
+            "price": 3889.6,
+            "author": [
+                "Михаил Ковалев",
+                "Никандр Панфилов"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 66,
+        "fields": {
+            "title": "С для динозавров\n",
+            "year": 1906,
+            "pages": 580,
+            "isbn13": "978-0-14-054298-1",
+            "rating": 0,
+            "price": 1442.4,
+            "author": [
+                "Евфросиния Данилова",
+                "Марфа Овчинникова"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 67,
+        "fields": {
+            "title": "Java для скучающих\n",
+            "year": 1932,
+            "pages": 524,
+            "isbn13": "978-1-70685-749-5",
+            "rating": 2,
+            "price": 9616.9,
+            "author": [
+                "Анжелика Красильникова",
+                "Ольга Воронцова",
+                "Аверьян Ермаков"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 68,
+        "fields": {
+            "title": "Java для скучающих\n",
+            "year": 1933,
+            "pages": 195,
+            "isbn13": "978-1-213-81959-7",
+            "rating": 0,
+            "price": 2953.7,
+            "author": [
+                "Вениамин Терентьев",
+                "Любим Федотов",
+                "Агап Борисов"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 69,
+        "fields": {
+            "title": "Pascal не понятно, для кого",
+            "year": 1911,
+            "pages": 780,
+            "isbn13": "978-0-7221-3754-3",
+            "rating": 0,
+            "price": 4171.0,
+            "author": [
+                "Полина Фомичева",
+                "Мефодий Кудряшов",
+                "Евпраксия Юдина"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 70,
+        "fields": {
+            "title": "С для динозавров\n",
+            "year": 2016,
+            "pages": 176,
+            "isbn13": "978-1-881961-09-3",
+            "rating": 5,
+            "price": 6131.3,
+            "author": [
+                "Устин Родионов",
+                "Нина Журавлева",
+                "Синклитикия Гусева"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 71,
+        "fields": {
+            "title": "Python для начинающих\n",
+            "year": 2023,
+            "pages": 595,
+            "isbn13": "978-0-09-865062-2",
+            "rating": 4,
+            "price": 7928.5,
+            "author": [
+                "Савватий Герасимов",
+                "Адам Селиверстов",
+                "Елизавета Алексеева"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 72,
+        "fields": {
+            "title": "Python для начинающих\n",
+            "year": 1971,
+            "pages": 799,
+            "isbn13": "978-1-383-24227-0",
+            "rating": 3,
+            "price": 3504.3,
+            "author": [
+                "Всеволод Савельев",
+                "Людмила Маслова",
+                "Валерия Зимина"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 73,
+        "fields": {
+            "title": "SQL для недогоняющих\n",
+            "year": 1949,
+            "pages": 895,
+            "isbn13": "978-1-391-91242-4",
+            "rating": 3,
+            "price": 490.8,
+            "author": [
+                "Зинаида Осипова",
+                "Алла Брагина",
+                "Карл Шарапов"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 74,
+        "fields": {
+            "title": "Pascal не понятно, для кого",
+            "year": 1941,
+            "pages": 216,
+            "isbn13": "978-1-204-02632-4",
+            "rating": 0,
+            "price": 9517.3,
+            "author": [
+                "Валерьян Беляев",
+                "Потап Орехов"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 75,
+        "fields": {
+            "title": "Python для начинающих\n",
+            "year": 2003,
+            "pages": 251,
+            "isbn13": "978-0-15-874371-4",
+            "rating": 0,
+            "price": 4551.4,
+            "author": [
+                "Адам Панфилов",
+                "Елена Кабанова"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 76,
+        "fields": {
+            "title": "Python для начинающих\n",
+            "year": 2008,
+            "pages": 726,
+            "isbn13": "978-0-9954559-1-7",
+            "rating": 2,
+            "price": 6593.2,
+            "author": [
+                "Валерия Пестова"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 77,
+        "fields": {
+            "title": "SQL для недогоняющих\n",
+            "year": 1986,
+            "pages": 982,
+            "isbn13": "978-0-563-32181-1",
+            "rating": 5,
+            "price": 8557.0,
+            "author": [
+                "Афанасий Куликов"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 78,
+        "fields": {
+            "title": "Python для начинающих\n",
+            "year": 2003,
+            "pages": 405,
+            "isbn13": "978-0-263-05770-6",
+            "rating": 4,
+            "price": 4873.2,
+            "author": [
+                "Оксана Филатова",
+                "Никанор Авдеев"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 79,
+        "fields": {
+            "title": "SQL для недогоняющих\n",
+            "year": 1907,
+            "pages": 77,
+            "isbn13": "978-0-585-30971-2",
+            "rating": 5,
+            "price": 8633.9,
+            "author": [
+                "Иннокентий Рожков"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 80,
+        "fields": {
+            "title": "С для динозавров\n",
+            "year": 1987,
+            "pages": 39,
+            "isbn13": "978-1-4451-7018-3",
+            "rating": 0,
+            "price": 1555.7,
+            "author": [
+                "Евдокия Авдеева",
+                "Венедикт Кононов"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 81,
+        "fields": {
+            "title": "Java для скучающих\n",
+            "year": 2012,
+            "pages": 387,
+            "isbn13": "978-1-67072-888-3",
+            "rating": 3,
+            "price": 1927.4,
+            "author": [
+                "Ирина Гордеева",
+                "Валентина Орехова",
+                "Ия Мухина"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 82,
+        "fields": {
+            "title": "SQL для недогоняющих\n",
+            "year": 1900,
+            "pages": 900,
+            "isbn13": "978-1-61142-398-3",
+            "rating": 2,
+            "price": 3194.2,
+            "author": [
+                "Пров Лаврентьев",
+                "Алексей Фадеев"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 83,
+        "fields": {
+            "title": "Python для начинающих\n",
+            "year": 1959,
+            "pages": 182,
+            "isbn13": "978-1-291-58935-1",
+            "rating": 0,
+            "price": 4282.7,
+            "author": [
+                "Глафира Кулакова",
+                "Мартын Гаврилов",
+                "Ираида Борисова"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 84,
+        "fields": {
+            "title": "Java для скучающих\n",
+            "year": 1906,
+            "pages": 713,
+            "isbn13": "978-1-78910-119-5",
+            "rating": 2,
+            "price": 242.5,
+            "author": [
+                "Вероника Степанова",
+                "Леон Борисов",
+                "Демид Григорьев"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 85,
+        "fields": {
+            "title": "Python для начинающих\n",
+            "year": 1961,
+            "pages": 560,
+            "isbn13": "978-1-363-15030-4",
+            "rating": 1,
+            "price": 1223.6,
+            "author": [
+                "Агафья Филатова",
+                "Татьяна Терентьева"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 86,
+        "fields": {
+            "title": "Python для начинающих\n",
+            "year": 1964,
+            "pages": 735,
+            "isbn13": "978-0-557-14123-4",
+            "rating": 2,
+            "price": 446.4,
+            "author": [
+                "Маргарита Алексеева",
+                "Творимир Сорокин",
+                "Вениамин Вишняков"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 87,
+        "fields": {
+            "title": "Python для начинающих\n",
+            "year": 2004,
+            "pages": 437,
+            "isbn13": "978-1-09-852803-4",
+            "rating": 5,
+            "price": 8903.3,
+            "author": [
+                "Александр Самсонов"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 88,
+        "fields": {
+            "title": "С для динозавров\n",
+            "year": 1980,
+            "pages": 789,
+            "isbn13": "978-0-294-48315-4",
+            "rating": 1,
+            "price": 2028.0,
+            "author": [
+                "Пелагея Белова",
+                "Поликарп Кондратьев"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 89,
+        "fields": {
+            "title": "SQL для недогоняющих\n",
+            "year": 1981,
+            "pages": 444,
+            "isbn13": "978-1-61039-785-8",
+            "rating": 0,
+            "price": 2944.4,
+            "author": [
+                "Фаина Филиппова",
+                "Кондратий Белоусов"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 90,
+        "fields": {
+            "title": "Python для начинающих\n",
+            "year": 2020,
+            "pages": 524,
+            "isbn13": "978-1-113-10643-8",
+            "rating": 5,
+            "price": 3183.0,
+            "author": [
+                "Акулина Овчинникова",
+                "Анатолий Королев"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 91,
+        "fields": {
+            "title": "Python для начинающих\n",
+            "year": 1992,
+            "pages": 429,
+            "isbn13": "978-0-294-35575-8",
+            "rating": 1,
+            "price": 4323.1,
+            "author": [
+                "Ксения Овчинникова",
+                "Акулина Кудряшова"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 92,
+        "fields": {
+            "title": "С для динозавров\n",
+            "year": 1983,
+            "pages": 789,
+            "isbn13": "978-0-652-71611-5",
+            "rating": 1,
+            "price": 8576.0,
+            "author": [
+                "Всеслав Молчанов"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 93,
+        "fields": {
+            "title": "SQL для недогоняющих\n",
+            "year": 1955,
+            "pages": 838,
+            "isbn13": "978-1-06-075827-8",
+            "rating": 5,
+            "price": 5928.3,
+            "author": [
+                "Алина Фадеева"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 94,
+        "fields": {
+            "title": "SQL для недогоняющих\n",
+            "year": 1998,
+            "pages": 399,
+            "isbn13": "978-1-104-68852-3",
+            "rating": 5,
+            "price": 4743.1,
+            "author": [
+                "Порфирий Карпов",
+                "Остромир Кудрявцев"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 95,
+        "fields": {
+            "title": "SQL для недогоняющих\n",
+            "year": 1983,
+            "pages": 247,
+            "isbn13": "978-1-80644-884-5",
+            "rating": 1,
+            "price": 7957.1,
+            "author": [
+                "Амвросий Дьячков"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 96,
+        "fields": {
+            "title": "Pascal не понятно, для кого",
+            "year": 2009,
+            "pages": 496,
+            "isbn13": "978-1-111-96013-1",
+            "rating": 3,
+            "price": 9716.8,
+            "author": [
+                "Евгений Пахомов",
+                "Ипатий Горбачев"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 97,
+        "fields": {
+            "title": "Pascal не понятно, для кого",
+            "year": 1981,
+            "pages": 197,
+            "isbn13": "978-0-11-166201-4",
+            "rating": 1,
+            "price": 806.1,
+            "author": [
+                "Ия Петухова",
+                "Варвара Турова"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 98,
+        "fields": {
+            "title": "С для динозавров\n",
+            "year": 1935,
+            "pages": 389,
+            "isbn13": "978-1-212-41442-7",
+            "rating": 4,
+            "price": 1364.0,
+            "author": [
+                "Октябрина Яковлева",
+                "Марк Самсонов"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 99,
+        "fields": {
+            "title": "С для динозавров\n",
+            "year": 1960,
+            "pages": 302,
+            "isbn13": "978-0-200-88080-0",
+            "rating": 0,
+            "price": 1474.6,
+            "author": [
+                "Акулина Веселова",
+                "Жанна Шашкова",
+                "Потап Павлов"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 100,
+        "fields": {
+            "title": "Pascal не понятно, для кого",
+            "year": 1923,
+            "pages": 889,
+            "isbn13": "978-0-479-37712-4",
+            "rating": 4,
+            "price": 7963.8,
+            "author": [
+                "Светлана Исакова",
+                "Нина Горшкова",
+                "Ирина Блохина"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 101,
+        "fields": {
+            "title": "С для динозавров\n",
+            "year": 1926,
+            "pages": 572,
+            "isbn13": "978-0-7252-6202-0",
+            "rating": 4,
+            "price": 4858.7,
+            "author": [
+                "Лариса Игнатова"
+            ]
+        }
+    }
+]
